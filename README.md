@@ -1,6 +1,6 @@
 # Binary-Tree-Traversal
-Header and source fils of tree traversal functions and a main file with an example
-The main function takes the in order and pre order traversals and uses those to return the post order traversal
+Header and source fils of tree traversal functions and a main file with an example, all written in C.
+The main function takes the in order and pre order traversals and uses those to return the post order traversal. The tree and functions include support for repeat characters.
 
 ## Functions
 
